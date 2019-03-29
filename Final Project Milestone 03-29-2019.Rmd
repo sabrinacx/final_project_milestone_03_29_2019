@@ -1,0 +1,41 @@
+---
+title: "Final Project Milestone 03-29-2019"
+author: "Sabrina Chok"
+date: "3/29/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Project 1: Harvard Volleyball
+https://maclainefields.shinyapps.io/Gov_1005_Final_Project/
+
+Pros:
+- Incredibly interactive interface. User can customize everything from opponent to serve/pass types
+- Clear explanations regarding how to interpret the graphics. This enables even those who aren't familiar with volleyball analytics to understand how to read them.
+- Graphics mimic how the ball moves during the game
+
+Cons:
+- Should define some volleyball vocabulary to make it even more user friendly
+- A lot of data presented in the overview, so it was difficult to understand what conclusion the student wanted users to draw from the data
+- I would've loved to see a page with explanations of general insights found from the data about Harvard's performance. It would've shed more light on the student's thought process and approach regarding the data set.  
+
+##Project 2: Nicholas Cage: an In-Depth Analysis
+
+https://claire-fridkin.shinyapps.io/nicolas_cage_analysis/
+
+Pros: 
+- Chose to track an interesting variation of positive and negative words in the different scripts
+- Interactive - can choose which film data to look into; scatter plots also allow you to see names pop up for all data points
+- Cool relationships drawn between film ratings and revenue 
+- Includes consideration for potential biases in data
+
+Cons:
+- Should've included more information about the thought process. 
+- Unclear what the relationship between sentiment analysis and the trajectory of Nicholas Cage's career is. Data isn't explained very well.
+- Unclear how words were compared against eachother (ie how is one word more negative than another?)
+- I would've loved to see films compared against eachother and a more general overview into Cage's entire career since that was the question the student was looking into. 
+
+
